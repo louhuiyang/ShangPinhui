@@ -5,7 +5,7 @@
     "baseUrl": "./",
     "moduleResolution": "node",
     "paths": {
-      "@/*": [
+      "@/*": [ //src文件夹的别名的设置 @
         "src/*"
       ]
     },
